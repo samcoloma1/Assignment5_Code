@@ -1,3 +1,5 @@
+[![.github/workflows/SE333_CI.yml](https://github.com/samcoloma1/Assignment5_Code/actions/workflows/SE333_CI.yml/badge.svg)](https://github.com/samcoloma1/Assignment5_Code/actions/workflows/SE333_CI.yml)
+
 Assignment 5 — Unit, Mocking, and Integration Testing
 
 This repo contains tests and CI for the Barnes & Noble and Amazon examples.
